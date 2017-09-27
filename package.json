@@ -1,0 +1,32 @@
+{
+  "name": "library-site",
+  "version": "0.1.0",
+  "description": "Server rendered site",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abhilashsajeev/library-site.git"
+  },
+  "keywords": [
+    "reactjs",
+    "nodejs"
+  ],
+  "author": "abhilashsajeev@github.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abhilashsajeev/library-site/issues"
+  },
+  "homepage": "https://github.com/abhilashsajeev/library-site#readme",
+  "dependencies": {
+    "material-ui": "^0.19.1",
+    "next": "^3.2.1",
+    "react": "^15.6.1",
+    "react-dom": "^15.6.1",
+    "react-responsive-carousel": "^3.1.25"
+  }
+}
